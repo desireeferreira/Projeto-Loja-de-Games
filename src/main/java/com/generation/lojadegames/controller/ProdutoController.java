@@ -20,7 +20,7 @@ import com.generation.lojadegames.repository.ProdutoRepository;
 
 @RestController
 @RequestMapping("/produtos")
-@CrossOrigin("*")
+@CrossOrigin(origins = "*", allowedHeaders = "*")
 public class ProdutoController {
 
     @Autowired
