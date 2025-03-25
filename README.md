@@ -8,7 +8,6 @@
 - 🚀 **Spring Boot**: Framework utilizado para a criação da aplicação.
 - 🗄 **MySQL**: Banco de dados utilizado para armazenamento das informações.
 - 🔄 **JPA/Hibernate**: Frameworks para persistência de dados.
-- 💻 **Thymeleaf**: Motor de templates para renderização de HTML.
 - 🛒 **Carrinho de compras**: Funcionalidade de adicionar produtos ao carrinho.
 - 🧪 **Insomnia**: Utilizados para testar as APIs criadas.
 - 🔒 **Spring Security**: Framework para autenticação e segurança da aplicação.
